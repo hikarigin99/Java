@@ -1,7 +1,7 @@
 import java.util.Random;
 
 public class Cars {
-	String[] cars;
+	String[] cars; // 수정수정
 	
 	public Cars(Car[] car) {
 		cars = new String[car.length];
